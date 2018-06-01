@@ -5,6 +5,7 @@
     <title>Spring App</title>
 </head>
 <body>
-    <h1>Hello</h1>
+    <h1>Hello Index</h1>
+    <a href="/hello">hello.ftl</a>
 </body>
 </html>

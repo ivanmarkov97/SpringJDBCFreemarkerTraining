@@ -6,5 +6,6 @@
 </head>
 <body>
 <h1>I am first tempate</h1>
+<a href="/users">users  list</a>
 </body>
 </html>
